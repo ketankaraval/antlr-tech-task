@@ -1,0 +1,40 @@
+//----------------------------------- Display -----------------------------------//
+
+.df {
+  display: flex;
+}
+
+.df-ac {
+  display: flex;
+  align-items: center;
+}
+
+.df-jsb-ac {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.df-jc-ac {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dfc-ac {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.dfc-as {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+//----------------------------------- Margins -----------------------------------//
+
+.mr-8 {
+  margin-right: 8px;
+}
